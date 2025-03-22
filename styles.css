@@ -1,0 +1,22 @@
+.todoapp h1 {
+    color: rgb(255, 213, 79);
+    font-size: 80px;
+    top: -155px;
+    text-shadow: 2px 2px 4px rgb(255, 255, 255), -2px -2px 4px rgb(255, 255, 255), 2px -2px 4px rgb(255, 255, 255), -2px 2px 4px rgba(255, 255, 255, 0.8);
+}
+
+
+.info {
+    color: #bfbfbf;
+}
+
+.header {
+    text-align: center;
+}
+
+.footer {
+    color: #777;
+}
+body{
+background-color: #fff8e1;}
+
